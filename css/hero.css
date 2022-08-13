@@ -29,7 +29,6 @@ header img{
 }
 
 
-
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -43,6 +42,7 @@ main img{
 h2{
 	font-size: 30px;
 	color:  #e70c19;
+	margin: 40px 0 10px;
 }
 
 a{
@@ -63,6 +63,7 @@ footer {
 footer p{
 	margin: 0;
 }
+
 footer a{
 	color: white;
 }
@@ -70,4 +71,10 @@ footer a{
 footer a:hover{
 	opacity: .5;
 	background-color: white;
+}
+
+p.caption{
+	color:  #999999;
+	font-style: italic;
+	margin-top: 0;
 }
